@@ -1,12 +1,72 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ⚖️ NyayaSathi  
+### A Legal Assistance Platform for Simplifying Legal Awareness
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 📌 Overview
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Q_mYFJYVR2-rIDBuccvma3Plw8lHXnEI
+NyayaSathi is a web-based legal assistance platform designed to make legal information **clear, accessible, and easy to understand**.  
+It aims to bridge the gap between complex legal systems and everyday users by presenting legal concepts in a structured, user-friendly manner.
+
+The platform focuses on **clarity, usability, and accessibility**, helping users explore legal topics and understand their rights without being overwhelmed by legal jargon.
+
+---
+
+## 🎯 Problem Statement
+
+Legal information is often:
+- Difficult to understand due to complex terminology  
+- Scattered across multiple sources  
+- Inaccessible to non-legal audiences  
+
+NyayaSathi addresses these challenges by offering a centralized platform that simplifies legal awareness through intuitive design and structured content delivery.
+
+---
+
+## 🚀 Features
+
+- **Simplified Legal Explanations**  
+  Presents legal concepts in plain, easy-to-understand language.
+
+- **Structured Navigation**  
+  Organizes legal topics logically for quick and focused access.
+
+- **User-Friendly Interface**  
+  Clean, minimal UI designed for clarity and ease of use.
+
+- **Responsive Design**  
+  Fully responsive across desktops, tablets, and mobile devices.
+
+- **Scalable Architecture**  
+  Designed to support future feature expansion and additional legal domains.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- Next.js
+- React
+- Tailwind CSS
+
+### Backend (if applicable)
+- Node.js
+- API-based architecture
+
+### Deployment
+- Vercel
+
+---
+
+## 📦 Installation & Setup
+
+Follow the steps below to run the project locally.
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/<your-username>/nyaya-sathi.git
+cd nyaya-sathi
+```
 
 ## Run Locally
 
