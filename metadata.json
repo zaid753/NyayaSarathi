@@ -1,0 +1,9 @@
+{
+  "name": "NyayaSarathi",
+  "description": "A verified AI legal assistant for India providing FIR assistance, IPC explanations, and legal drafting.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
